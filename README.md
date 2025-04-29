@@ -7,6 +7,10 @@
 
 ---
 
+### Here Projects are just logical testing projects, It may be different same software design rule 🤦‍♂️
+
+---
+
 ### 🧠 About Me
 
 - 💻 I love building high-performance, scalable application
@@ -59,17 +63,6 @@
 ### 📫 Contact Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/aungpyaephyo-dev)
-- 🌐 [Portfolio](https://your-portfolio.com)
 - 📧 aungpyaephyo3112002@gmail.com
 
 ---
-
-### ✨ Quote for You
-
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
-
-<!---
-original-zues/original-zues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
