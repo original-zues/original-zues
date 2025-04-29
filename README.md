@@ -7,10 +7,6 @@
 
 ---
 
-### Here Projects are just logical testing projects, It may be different same software design rule 🤦‍♂️
-
----
-
 ### 🧠 About Me
 
 - 💻 I love building high-performance, scalable application
@@ -48,6 +44,10 @@
 - 🕸️ **WebSocket**, 🎥 **WebRTC**
 - 🐰 **RabbitMQ**
 - 🧱 **Design Patterns**
+
+---
+
+### Here Projects are just logical testing projects, It may be different same software design rule 🤦‍♂️
 
 ---
 
